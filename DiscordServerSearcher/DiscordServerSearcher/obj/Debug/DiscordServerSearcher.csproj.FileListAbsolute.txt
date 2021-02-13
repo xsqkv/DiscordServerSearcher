@@ -1,0 +1,10 @@
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\bin\Debug\DiscordServerSearcher.exe.config
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\bin\Debug\DiscordServerSearcher.exe
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\bin\Debug\DiscordServerSearcher.pdb
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.csprojAssemblyReference.cache
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.Form1.resources
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.Properties.Resources.resources
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.csproj.GenerateResource.cache
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.exe
+C:\Users\Adminis\source\repos\DiscordServerSearcher\DiscordServerSearcher\obj\Debug\DiscordServerSearcher.pdb
